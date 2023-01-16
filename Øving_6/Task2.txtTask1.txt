@@ -1,0 +1,5 @@
+1	hei
+2	på
+3	deg
+4	quit
+5	
