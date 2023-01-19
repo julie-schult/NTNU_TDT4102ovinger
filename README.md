@@ -2,9 +2,9 @@
 Øvinger i TDT4102 - Prosedyre- og objektorientert programmering (C++)
 
 ## Øving 1
-Forskjeller og likheter mellom Python og C++
-Oversetting fra C++ til Python
-Oversetting fra Python til C++
+*Forskjeller og likheter mellom Python og C++
+*Oversetting fra C++ til Python
+*Oversetting fra Python til C++
 
 ## Øving 2
 Funksjoner og input/output
